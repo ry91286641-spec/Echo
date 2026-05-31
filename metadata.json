@@ -1,0 +1,6 @@
+{
+  "name": "EchoLive",
+  "description": "Complete social voice chat and live streaming entertainment platform with global chat rooms, PK battles, virtual economy, mini-games, and AI features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
